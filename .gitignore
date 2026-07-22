@@ -31,4 +31,4 @@ yarn-error.log*
 *.fit
 *.tcx
 *.zip
-
+.vercel
